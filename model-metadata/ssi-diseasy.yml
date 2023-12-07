@@ -17,3 +17,5 @@ model_contributors:
     email: mmgr@ssi.dk
 team_model_designation: primary
 methods: A ensemble model built by combination of modular componments
+team_funding: Statens Serum Institut
+website_url: https://github.com/ssi-dk/diseasy/
