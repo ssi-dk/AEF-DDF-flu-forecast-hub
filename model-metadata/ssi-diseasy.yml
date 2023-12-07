@@ -1,4 +1,4 @@
-team_name: Statens Serum Institut: Disease Dynamics and Forecasting
+team_name: Statens Serum Institut - Disease Dynamics and Forecasting
 model_name: diseasy ILI ensemble model
 team_abbr: SSI-DDF
 model_abbr: diseasy
@@ -6,13 +6,13 @@ model_contributors:
   - name: Rasmus Skytte Randløv
     affiliation: Statens Serum Institut, Department of Epidemiology Research, Disease Dynamics and Forecasting
     email: rske@ssi.dk
-- name: Kaare Græsbøll
+  - name: Kaare Græsbøll
     affiliation: Statens Serum Institut, Department of Epidemiology Research, Disease Dynamics and Forecasting
     email: kgrb@ssi.dk
-- name: Lasse Engbo Christiansen
+  - name: Lasse Engbo Christiansen
     affiliation: Statens Serum Institut, Department of Epidemiology Research, Disease Dynamics and Forecasting
     email: lsec@ssi.dk
-- name: Marcus Munch Grünewald
+  - name: Marcus Munch Grünewald
     affiliation: Statens Serum Institut, Department of Epidemiology Research, Disease Dynamics and Forecasting
     email: mmgr@ssi.dk
 team_model_designation: primary
