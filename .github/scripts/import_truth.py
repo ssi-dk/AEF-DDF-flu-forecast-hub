@@ -2,6 +2,7 @@ import os
 import sys
 import csv
 from urllib.request import urlopen
+import urllib.error
 from datetime import datetime, timedelta
 from isoweek import Week
 
@@ -24,7 +25,8 @@ url = url.format(snapshot_date=snapshot_date)
 try:
     response = urlopen(url)
 except urllib.error.HTTPError:
-    sys.exit(0)
+    print (f'Http error - failed to access url {url}')
+    sys.exit(1)
 
 
 # Read data

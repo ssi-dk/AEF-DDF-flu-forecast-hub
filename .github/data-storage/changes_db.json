@@ -1,9 +1,9 @@
 {
-    "TestTeam": [
+    "ECDC": [
         {
-            "model": "TestModel",
+            "model": "FluForARIMA",
             "changes": [
-                "model-output/TestTeam-TestModel/2023-12-13-TestTeam-TestModel.csv"
+                "model-output/ECDC-FluForARIMA/2023-12-13-ECDC-FluForARIMA.csv"
             ]
         }
     ]
